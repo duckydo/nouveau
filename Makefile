@@ -9,3 +9,4 @@ upload:
 	python -m pip install twine
 	python -m twine upload dist/openai-*
 	rm -rf dist
+relou le sang
